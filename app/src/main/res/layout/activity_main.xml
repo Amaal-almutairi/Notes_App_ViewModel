@@ -12,7 +12,7 @@
         android:id="@+id/rvmain"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:listitem="@layout/list_row"
+        tools:listitem="@layout/list_item"
         android:layout_weight="10"/>
 
     <LinearLayout
